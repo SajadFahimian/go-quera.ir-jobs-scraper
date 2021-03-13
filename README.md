@@ -7,9 +7,9 @@
 ## Requirements
 
 > دستور زیر را در
-> Terminal
+> ترمینال
 > تایپ کرده و
-> enter
+> اینتر
 > را بزنید تا بسته مورد نیاز نصب شود
 
 - `go get -u github.com/gocolly/colly/...`
